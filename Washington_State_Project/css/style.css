@@ -1,5 +1,7 @@
 /* Style for Washington state project */
-
+alt {
+  color: #FFFFFF;
+}
 /* Navbar */
 #navbar_whole {
   margin-left: auto;
